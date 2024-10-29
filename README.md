@@ -10,8 +10,8 @@ Log in using Google credentials to get notified! Set a budget, add transactions,
 Warning! Email does go to SPAM folder AND login may have to be clicked twice on occasion.
 
 ## Contributors ##
+James Reich
 Jonathan Cowan,
 Samuel Austin,
 Jacob Broom,
-Gabe Collins,
-James Reich
+Gabe Collins
