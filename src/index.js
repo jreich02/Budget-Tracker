@@ -10,7 +10,7 @@ ReactDOM.render(
     <Auth0Provider
     domain={domain}
     clientId={clientId}
-    redirectUri={'https://jcowan12.github.io/BudgetTracker3720/'}>
+    redirectUri={'https://jreich02.github.io/Budget-Tracker/'}>
         <App />
     </Auth0Provider>,
     document.getElementById('root')
